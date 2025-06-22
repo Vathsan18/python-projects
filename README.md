@@ -1,0 +1,1 @@
+A collection of Python projects and exercises I created while learning Python. This repository includes everything from beginner-friendly scripts to intermediate-level mini-projects, covering a range of topics like data structures, file handling, APIs, web scraping, automation, and more.
